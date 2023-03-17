@@ -5,7 +5,7 @@ void main(void){
 //char c= getchar();
 char  b;
 
- scanf("%c",&b );
+scanf("%c",&b );
 
 
 clrscr();
